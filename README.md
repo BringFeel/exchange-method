@@ -20,21 +20,21 @@
   </div>
   
 ## [exchange method 1](https://github.com/BringFeel/exchange-method/blob/main/exchange-method-1.cpp)
-Example: 111000\
+Enter: 111000\
 Result: 101010\
 ![method1](https://github.com/BringFeel/exchange-method/blob/main/images/Example1.png)
 
 ## [exchange method 2](https://github.com/BringFeel/exchange-method/blob/main/exchange-method-2.cpp)
-Example: 111000\
+Enter: 111000\
 Result: 000111\
 ![method2](https://github.com/BringFeel/exchange-method/blob/main/images/Example2.png)
 
 ## [exchange method 3](https://github.com/BringFeel/exchange-method/blob/main/exchange-method-3.cpp)
-Example: 623451\
+Enter: 623451\
 Result: 123456\
 ![method3](https://github.com/BringFeel/exchange-method/blob/main/images/Example3.png)
 
 ## [exchange method 4](https://github.com/BringFeel/exchange-method/blob/main/exchange-method-4.cpp)
-Example: 654321\
+Enter: 654321\
 Result: 123456\
 ![method4](https://github.com/BringFeel/exchange-method/blob/main/images/Example4.png)
