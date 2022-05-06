@@ -6,9 +6,9 @@
   
   <div align="center">
   
-  [![Downloads](https://img.shields.io/github/downloads/BringFeel/discord-avatar/total?style=for-the-badge)](https://github.com/BringFeel/discord-avatar/releases/latest)
-  [![Stars](https://img.shields.io/github/stars/BringFeel/discord-avatar?style=for-the-badge)](https://github.com/BringFeel/discord-avatar/stargazers)
-  [![Release](https://img.shields.io/github/v/release/BringFeel/discord-avatar?style=for-the-badge)](https://github.com/BringFeel/discord-avatar/releases/latest)
+  [![Downloads](https://img.shields.io/github/downloads/BringFeel/exchange-method/total?style=for-the-badge)](https://github.com/BringFeel/exchange-method/releases/latest)
+  [![Stars](https://img.shields.io/github/stars/BringFeel/exchange-method?style=for-the-badge)](https://github.com/BringFeel/exchange-method/stargazers)
+  [![Release](https://img.shields.io/github/v/release/BringFeel/exchange-method?style=for-the-badge)](https://github.com/BringFeel/exchange-method/releases/latest)
   [![Discord](https://img.shields.io/discord/952035654831845457?color=%237289DA&style=for-the-badge)](https://discord.bringfeel.com) </p>
   
   </div>
