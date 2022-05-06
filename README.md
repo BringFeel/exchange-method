@@ -21,20 +21,20 @@
   
 ## exchange method 1
 Example: 111000\
-Result:\
+Result: 101010\
 ![method1](https://cdn.discordapp.com/attachments/970858828008652862/971925147655237643/Ejemplo1.png)
 
 ## exchange method 2
 Example: 111000\
-Result:\
+Result: 000111\
 ![method1](https://cdn.discordapp.com/attachments/970858828008652862/971925164738641960/Ejemplo2.png)
 
 ## exchange method 3
 Example: 623451\
-Result:\
+Result: 123456\
 ![method1](https://cdn.discordapp.com/attachments/970858828008652862/971925174205157447/Ejemplo3.png)
 
 ## exchange method 4
 Example: 654321\
-Result:\
+Result: 123456\
 ![method1](https://cdn.discordapp.com/attachments/970858828008652862/971925183701061702/Ejemplo4.png)
