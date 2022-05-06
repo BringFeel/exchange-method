@@ -19,22 +19,22 @@
   
   </div>
   
-## exchange method 1
+## [exchange method 1](https://github.com/BringFeel/exchange-method/blob/main/exchange-method-1.cpp)
 Example: 111000\
 Result: 101010\
 ![method1](https://cdn.discordapp.com/attachments/970858828008652862/971925147655237643/Ejemplo1.png)
 
-## exchange method 2
+## [exchange method 2](https://github.com/BringFeel/exchange-method/blob/main/exchange-method-2.cpp)
 Example: 111000\
 Result: 000111\
 ![method1](https://cdn.discordapp.com/attachments/970858828008652862/971925164738641960/Ejemplo2.png)
 
-## exchange method 3
+## [exchange method 3](https://github.com/BringFeel/exchange-method/blob/main/exchange-method-3.cpp)
 Example: 623451\
 Result: 123456\
 ![method1](https://cdn.discordapp.com/attachments/970858828008652862/971925174205157447/Ejemplo3.png)
 
-## exchange method 4
+## [exchange method 4](https://github.com/BringFeel/exchange-method/blob/main/exchange-method-4.cpp)
 Example: 654321\
 Result: 123456\
 ![method1](https://cdn.discordapp.com/attachments/970858828008652862/971925183701061702/Ejemplo4.png)
